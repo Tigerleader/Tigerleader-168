@@ -6,13 +6,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=1715173329&include_all_commits=true&count_private=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
-希望你永远怀揣希望不要心急
 
 
 
 
 
-①暂时无考虑好这方面的打算(持续时间截止至2023/12/31日）
+
+①暂时无考虑好这方面的打算以及准备(持续时间截止至2023/12/31日）
 
 ②对此问题产生的后果由自行承担
 
